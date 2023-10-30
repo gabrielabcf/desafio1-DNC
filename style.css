@@ -98,4 +98,11 @@ button{
     cursor: pointer;
 }
 
+button:hover{
+    background-color: #88571b;
+    transform: translateY(-7px);
+    transition-duration: 0.5s;
+    box-shadow: 0px 15px 20px #db842060;
+}
+
 
